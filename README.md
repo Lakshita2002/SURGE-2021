@@ -4,7 +4,7 @@ Project Mentor: [Professor Ishan Sharma](http://home.iitk.ac.in/~ishans/i/Welcom
 ### OVITO simulations using LAMMPS
 
 #### Drafting a Granular Bed
-<img src="/Images/without-sim-box.png" width="700"/> <br>
+<img src="/Images/sim-box.png" width="700"/> <br>
 
 #### Friction package
 <img src="/Images/friction-1.png" width="400"/> <img src="/Images/friction-2.png" width="400"/> 
