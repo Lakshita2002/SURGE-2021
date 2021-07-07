@@ -5,6 +5,8 @@ Project Mentor: [Professor Ishan Sharma](http://home.iitk.ac.in/~ishans/i/Welcom
 
 ### Drafting a Granular Bed
 
+<img src="/Images/settling-bed.gif" width="500" height="500" />
+
 #### **Problems:**
 - It is not settling finally to the ground; it keeps going on and on<br>
 - Maybe change some parameters<br>
