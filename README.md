@@ -3,7 +3,22 @@
 Project Mentor: [Professor Ishan Sharma](http://home.iitk.ac.in/~ishans/i/Welcome.html) 
 ### OVITO simulations using LAMMPS
 
-#### Drafting a Granular Bed
+### Drafting a Granular Bed
+
+#### **Problems:**
+- It is not settling finally to the ground; it keeps going on and on<br>
+- Maybe change some parameters<br>
+- Color here depicts the velocity magnitude of the atoms
+- Towards blue means low velocity magnitude <br>
+- Towards red means high velocity magnitude <br>
+
+<img src="/Images/granular-bed.png" width="700"/> <br>
+
+#### **Problems:**
+- It is not settling under gravity<br>
+- No boundary walls<br>
+- It is just the initial configuration<br>
+
 <img src="/Images/sim-box.png" width="700"/> <br>
 
 #### Friction package
